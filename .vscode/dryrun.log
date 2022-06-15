@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/africar_l/Repository/MLtest'
+gcc -o hellomake hello.c -I.
+make: Leaving directory '/home/africar_l/Repository/MLtest'
+ 
