@@ -19,8 +19,8 @@ copyright: "Copyright &copy; 2022 - 2023 Africar Li"
 
 extra:
   social:
-    - type: github
-      link: https://github.com/Africar-Lee
+    - icon: fontawesome/brands/github-alt
+      link: 'https://github.com/Africar-Lee'
 
   search:
     language: 'en'
