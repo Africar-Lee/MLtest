@@ -30,7 +30,7 @@ extra:
 
 markdown_extensions:
   - admonition                                                # 注解块支持
-  - pymdownx.arithmatex                                   # 数学公式的TeX语法支持
+  - pymdownx.arithmatex:                                   # 数学公式的TeX语法支持
       generic: true
   - pymdownx.betterem:
       smart_enable: all
